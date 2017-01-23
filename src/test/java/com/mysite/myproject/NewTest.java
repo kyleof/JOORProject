@@ -36,9 +36,9 @@ import org.openqa.selenium.Keys;
 			
 			x.attachImage();
 	
-//			x.clickSend();
-//			
-//			x.logOut();
+			x.clickSend();
+			
+			x.logOut();
 			
 			x.quit();
 		}
@@ -56,9 +56,9 @@ import org.openqa.selenium.Keys;
 			x.enterSubject("test");
 			x.enterMessage("Test12");
 	
-//			x.clickSend();
-//			
-//			x.logOut();
+			x.clickSend();
+			
+			x.logOut();
 			
 			x.quit();
 		}
@@ -89,9 +89,9 @@ import org.openqa.selenium.Keys;
 			
 			x.attachImage();
 	
-//			x.clickSend();
-//			
-//			x.logOut();
+			x.clickSend();
+			
+			x.logOut();
 			
 			x.quit();
 		}
@@ -121,9 +121,9 @@ import org.openqa.selenium.Keys;
 			x.enterSubject("test");
 			x.enterMessage("Test12");
 	
-//			x.clickSend();
-//			
-//			x.logOut();
+			x.clickSend();
+			
+			x.logOut();
 			x.quit();
 		}
 		
